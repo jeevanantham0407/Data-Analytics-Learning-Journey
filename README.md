@@ -1,12 +1,12 @@
 # Day 01 - Python Basics
 
-## 📖 Overview
+## Overview
 
 This repository contains my Day 01 Python learning journey as part of my **Data Analytics Learning Journey**. I practiced Python fundamentals through hands-on programs covering variables, operators, conditional statements, loops, and a mini project.
 
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
 ## 1. Variables
 
@@ -115,7 +115,7 @@ The Grade Calculator combines multiple Python concepts learned on Day 01.
 
 ---
 
-# 📊 Practice Summary
+# Practice Summary
 
 | Topic | Programs |
 |--------|---------:|
@@ -128,7 +128,7 @@ The Grade Calculator combines multiple Python concepts learned on Day 01.
 
 ---
 
-# 🛠️ Tools Used
+#  Tools Used
 
 - Python 3
 - Jupyter Notebook (.ipynb)
@@ -138,7 +138,7 @@ The Grade Calculator combines multiple Python concepts learned on Day 01.
 
 ---
 
-# 🎯 Skills Developed
+# Skills Developed
 
 - Python Programming Fundamentals
 - Problem Solving
@@ -152,7 +152,7 @@ The Grade Calculator combines multiple Python concepts learned on Day 01.
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 Day-01-Python-Basics/
@@ -167,7 +167,7 @@ Day-01-Python-Basics/
 
 ---
 
-# 🚀 Learning Outcome
+# Learning Outcome
 
 By completing Day 01, I gained a strong foundation in Python programming by understanding variables, operators, conditional statements, loops, and applying these concepts through practical exercises and a mini project. This forms the basis for my upcoming Data Analytics learning journey.
 
