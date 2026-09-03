@@ -1,0 +1,11 @@
+OrderID,Product,Category,Region,Salesperson,Sales
+1001,Laptop,Electronics,Chennai,Arun,55000
+1002,Mouse,Accessories,Chennai,Priya,1200
+1003,Keyboard,Accessories,Bangalore,Rahul,2500
+1004,Monitor,Electronics,Bangalore,Divya,45000
+1005,Laptop,Electronics,Chennai,Arun,60000
+1006,Mouse,Accessories,Bangalore,Priya,1500
+1007,Keyboard,Accessories,Chennai,Rahul,3000
+1008,Monitor,Electronics,Chennai,Divya,35000
+1009,Laptop,Electronics,Bangalore,Arun,58000
+1010,Mouse,Accessories,Chennai,Priya,1800

@@ -1,0 +1,9 @@
+OrderID,CustomerName,Age,Product,Category,Region,Sales
+1001,Arun,25,Laptop,Electronics,Chennai,55000
+1002,Priya,,Mouse,Accessories,Chennai,1200
+1003,Rahul,28,Keyboard,Accessories,,2500
+1004,Divya,23,,Electronics,Bangalore,45000
+1005,Karthik,26,Monitor,Electronics,Chennai,
+1006,Sneha,,Laptop,Electronics,Bangalore,60000
+1007,Vijay,29,Mouse,,Chennai,1500
+1008,Anitha,24,Keyboard,Accessories,,3000

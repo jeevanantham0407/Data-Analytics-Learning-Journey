@@ -1,0 +1,12 @@
+Order ID,Customer Name,Age,Product,Category,Region,Sales,Order Date,Salesperson
+1001,Arun,25,Laptop,Electronics,Chennai,55000,2026-01-05,Arun
+1002,Priya,,Mouse,Accessories,Chennai,1200,2026-01-08,Priya
+1003,Rahul,28,Keyboard,Accessories,,2500,2026-01-12,Rahul
+1004,Divya,23,,Electronics,Bangalore,45000,2026-01-15,Divya
+1005,Karthik,26,Laptop,Electronics,Chennai,,2026-01-20,Arun
+1006,Sneha,,Monitor,Electronics,Bangalore,35000,2026-01-25,Divya
+1007,Vijay,29,Mouse,,Chennai,1500,2026-02-02,Priya
+1008,Anitha,24,Keyboard,Accessories,,3000,2026-02-08,Rahul
+1003,Rahul,28,Keyboard,Accessories,,2500,2026-01-12,Rahul
+1009,Kumar,30,Laptop,Electronics,Bangalore,60000,2026-02-15,Arun
+1010,Meena,27,Mouse,Accessories,Chennai,1800,2026-02-20,Priya
