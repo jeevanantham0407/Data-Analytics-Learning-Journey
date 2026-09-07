@@ -42,19 +42,19 @@ The dataset contains 20 sales records with the following columns:
 
 ### Monthly Sales Trend
 
-![Monthly Sales](charts/monthly_sales.png)
+
 
 ### Sales by Category
 
-![Category Sales](charts/category_sales.png)
+
 
 ### Sales by Region
 
-![Region Sales](charts/region_sales.png)
+
 
 ### Sales by Salesperson
 
-![Salesperson Sales](charts/salesperson_sales.png)
+
 
 ### Sales by Product
 
