@@ -58,11 +58,11 @@ The dataset contains 20 sales records with the following columns:
 
 ### Sales by Product
 
-![Product Sales](charts/product_sales.png)
+
 
 ### Quantity Sold by Product
 
-![Product Quantity](charts/product_quantity.png)
+
 
 ## Key Business Insights
 
